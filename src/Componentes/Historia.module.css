@@ -1,0 +1,14 @@
+.historia{
+    font-size: 18px;
+    display: flex;
+    align-items:center; 
+    margin-top: 50px;
+    border-radius: 1px;
+    border: 10px;
+    border-color: rgb(197, 95, 220);
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-direction:column;
+    margin-left: 500px;
+}

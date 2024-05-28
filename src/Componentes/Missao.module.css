@@ -1,0 +1,55 @@
+.container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+}
+
+
+.section {
+    margin-bottom: 5px;
+}
+
+
+.section h4 {
+    font-size: 1.0em;
+    color: #ffffff;
+    border-bottom: 1px solid #400345;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+
+.section p {
+    font-size: 0.3em;
+    line-height: 1.0;
+    color: #fffdfd;
+    margin-bottom: 10px;
+}
+
+
+.valuesList {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+.valuesList li {
+    font-size: 0.3em;
+    color: #ffffff;
+    padding: 10px 0;
+
+}
+
+
+.valuesList li:last-child {
+    border-bottom: none;
+}
+
+
+.valuesList li strong {
+    color: #720885;
+    font-weight: bold;
+}

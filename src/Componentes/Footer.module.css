@@ -1,0 +1,10 @@
+.footer{
+    color: black;
+    background-color: rgb(135, 70, 255) !important;
+    padding:5px;
+    bottom:0;
+    width: 100%;
+    position: fixed;  
+    left:0;
+    font-size: 15px;
+}
